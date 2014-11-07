@@ -1,0 +1,52 @@
+h1 {
+	color:#e6e6e6;
+	text-align:center;
+	background: #b2b2b2;
+	border: 2px solid white;
+	border-radius:5px;
+	margin:5px 5px 5px 5px;
+	padding: 5px 20px 20px 5px;
+	font-size:20px;
+}
+h1:hover{
+	color:#ffffff;
+}
+a {
+	text-decoration:none;
+	color:green;
+}
+a:hover {
+	color:purple;
+}
+.link {
+	color: #004c80;
+	text-decoration:underline;
+}
+.link:hover{
+	color:#80ccff;
+}
+
+.junk{
+	color:#ffffff;
+	font-size:15px;
+	border: 1px dashed black;
+	background-color:#cccccc;
+	border-radius:3px;
+	text-align:center;
+}
+div {
+
+	border:5px dotted blue;
+
+	float:right;
+	margin:10px 10px 10px 10px;
+
+	background-color:#ffcccc;
+}
+div p {
+	color:#330000;
+	text-align: right;
+}
+div p:hover{
+	color:#00ff00;
+}
