@@ -29,9 +29,9 @@ h2 {
 }
 .bar li {
 	display: inline;
-	padding:10px;
-	top:35px;
-
+	padding-left:10px;
+	padding-right:10px;
+	font-style:italic;
 }
 .summary {
 	padding:10px;
