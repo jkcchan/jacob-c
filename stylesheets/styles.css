@@ -5,6 +5,8 @@
 
 h2 {
 	text-decoration: underline;
+	font-weight:400;
+	font-size:25px;
 }
 .header {
 	border: solid black 2px;
@@ -98,7 +100,7 @@ table tr td:nth-child(1){
 	100% {color:black;top:0px;}
 }
 #heading2:hover{
-	font-style:bold;
+	font-weight:400;
 	color:#ff0000;
 	-webkit-animation: hello 2s linear 0s infinite alternate;
 }
