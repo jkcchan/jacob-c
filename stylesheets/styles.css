@@ -26,8 +26,6 @@ h2 {
 .bar {
 	width: 50%;
 	top:-25px;
-}
-bar li:nth-child(2) {
 	margin-left:auto;
 	margin-right:auto;
 }
