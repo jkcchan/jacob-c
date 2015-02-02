@@ -1,6 +1,6 @@
 .resume {
 	font-family: 'Roboto Slab', serif;
-
+	font-weight:400;
 }
 
 h2 {
@@ -15,12 +15,16 @@ h2 {
 	padding-bottom:20px;
 		display: none;
 }
+.header h1 {
+	font-weight:500;
+}
 .bar {
 	width: 50%;
+	margin:auto;
 }
 .bar li {
 	display: inline;
-	width: 50px;
+	width: 33%;
 }
 .summary {
 	padding:10px;
