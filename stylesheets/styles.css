@@ -30,7 +30,7 @@ h2 {
 .bar li {
 	display: inline;
 	padding:10px;
-	top:-35px;
+	top:35px;
 
 }
 .summary {
