@@ -11,7 +11,7 @@ h2 {
 .header {
 	border: solid black 2px;
 	text-align:center;
-	height:100px;
+	height:120px;
 	width:70%;
 	margin:auto;
 	padding-bottom:20px;
@@ -21,6 +21,7 @@ h2 {
 	font-family: 'Muli', sans-serif;
 	font-style: italic;
 	font-size:45px;
+	height:70%;
 }
 .bar {
 	width: 50%;
