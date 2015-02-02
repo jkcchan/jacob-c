@@ -24,7 +24,9 @@ h2 {
 }
 .bar li {
 	display: inline;
-	width: 33%;
+	padding:10px;
+	border-right:1px dotted black;
+	border-left: 1px dotted black;
 }
 .summary {
 	padding:10px;
