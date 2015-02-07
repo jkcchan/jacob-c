@@ -10,6 +10,14 @@ h2 {
 	font-weight:400;
 	font-size:25px;
 }
+.exp {
+
+	padding-left:15px;
+	border:dotted black 1px;
+}
+.exp ul {
+	list-style-type:none;
+}
 .header {
 	border: solid black 2px;
 	text-align:center;
