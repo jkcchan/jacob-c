@@ -69,10 +69,9 @@ h2 {
 .date {
 	font-size:15px;
 	font-style:italic;
-	height:5px;
+
 	float:right;
-	margin-bottom: 10px;
-	top:-16px;
+
 }
 table tr td:nth-child(2){
 	vertical-align: top;
