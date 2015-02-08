@@ -55,6 +55,12 @@ h2 {
 	list-style-type:none;
 	width:30%;
 }
+.edu {
+	list-style-type: none;
+}
+.edu ul li:nth-child(1){
+	margin-left:20px;
+}
 .header {
 	border: solid black 2px;
 	text-align:center;
@@ -103,13 +109,13 @@ h2 {
 	padding:10px;
 		display: none;
 }
-.title {
+/*.title {
 	height:5px;
 }
 .degree {
 	height:10px;
 	padding-left:30px
-}
+}*/
 
 .date {
 	font-size:15px;
