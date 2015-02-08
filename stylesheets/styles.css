@@ -1,6 +1,44 @@
+.home {
+	font-family: 'Roboto Slab', serif;
+	font-weight:400;
+	display:none;
+	width:70%;
+	margin:auto;
+}
+.home .jumbotron .container img{
+	height:200px;
+	width:300px;
+	float:right;
+	display:inline-block;
+	position:right;
+}
+.home .col-md-4 {
+	text-align: center;
+}
 .resume {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
+	display:none;
+}
+.skills {
+	font-family: 'Roboto Slab', serif;
+	font-weight:400;
+	display:none;
+}
+.projects {
+	font-family: 'Roboto Slab', serif;
+	font-weight:400;
+	display:none;
+}
+.misc {
+	font-family: 'Roboto Slab', serif;
+	font-weight:400;
+	display:none;
+}
+.contact {
+	font-family: 'Roboto Slab', serif;
+	font-weight:400;
+	display:none;
 }
 
 body { padding-top: 70px; }
