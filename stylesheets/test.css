@@ -26,16 +26,20 @@ body {
 	font-weight:400;
 	padding-bottom:30px;
 }
-.skills *{
+.skills {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	padding-top:70px;
+
+}
+.skills *{
+		/*padding-top:70px;*/
 	width:70%;
 	margin-left:auto;
 	margin-right:auto;
 }
-.skills h1{
+.skills h2{
 	padding-left:20px;
+	padding-bottom:5px;
 }
 .atp {
 	font-family: 'Roboto Slab', serif;
