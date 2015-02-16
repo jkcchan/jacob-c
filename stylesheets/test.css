@@ -51,7 +51,6 @@ body {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
 	width:70%;
-	margin:auto;
 	margin-bottom:40px;
 	margin-top:70px;
 }
@@ -155,14 +154,12 @@ table tr td:nth-child(1){
 }
 
 .awardsandinterests{
-	 ;
 }
 .footer1 {
 	border:solid black 2px;
 	width:50%;
 	text-align: center;
 	margin:auto;
-	 ;
 }
 .footer1 ul {
 	list-style-type: none;
