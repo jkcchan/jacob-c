@@ -4,7 +4,6 @@ body {
 .home {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 	width:70%;
 	margin:auto;
 }
@@ -25,47 +24,40 @@ body {
 .resume {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 	padding-bottom:30px;
 }
 .skills {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 }
 .atp {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 }
 .website {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 }
 .watloo {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 }
 .rainmeter {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 }
 
 .projects {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 	width:70%;
 	margin:auto;
 	margin-bottom:40px;
+	margin-top:70px;
 }
 .misc {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	 ;
 }
 .contact {
 	font-family: 'Roboto Slab', serif;
