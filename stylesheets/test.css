@@ -53,6 +53,9 @@ body {
 	width:70%;
 	margin-bottom:40px;
 	margin-top:70px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top: 70px;
 }
 .misc {
 	font-family: 'Roboto Slab', serif;
