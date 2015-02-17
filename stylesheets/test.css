@@ -1,5 +1,6 @@
 body {
 	display:none;
+	padding-bottom:30px;
 }
 .home {
 	font-family: 'Roboto Slab', serif;
@@ -29,7 +30,7 @@ body {
 .skills {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
-	padding-bottom:30px;
+
 }
 .skills *{
 		/*padding-top:70px;*/
