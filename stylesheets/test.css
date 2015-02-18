@@ -2,6 +2,9 @@ body {
 	display:none;
 	padding-bottom:30px;
 }
+nav {
+	background-image:none;
+}
 .navbar-simple .brand {
  	padding-top: 15px;
 	padding-bottom: 15px;
