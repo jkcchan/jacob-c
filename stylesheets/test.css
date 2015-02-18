@@ -2,6 +2,10 @@ body {
 	display:none;
 	padding-bottom:30px;
 }
+nav{
+	background-image:none;
+	
+}
 .home {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
