@@ -21,7 +21,7 @@ body {
 	display:inline-block;
 	position:right;
 }
-.home .jumbotron .container p{
+p{
 	font-family: 'Lato', sans-serif;
 }
 .home .col-md-4 {
