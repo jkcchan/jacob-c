@@ -1,3 +1,62 @@
+.navbar-default {
+  background-color: #f3f3f3;
+  border-color: #9d9d9d;
+}
+.navbar-default .navbar-brand {
+  color: #616161;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #7dff7d;
+}
+.navbar-default .navbar-text {
+  color: #616161;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #616161;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #7dff7d;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #7dff7d;
+  background-color: #9d9d9d;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  color: #7dff7d;
+  background-color: #9d9d9d;
+}
+.navbar-default .navbar-toggle {
+  border-color: #9d9d9d;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #9d9d9d;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #616161;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #616161;
+}
+.navbar-default .navbar-link {
+  color: #616161;
+}
+.navbar-default .navbar-link:hover {
+  color: #7dff7d;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #616161;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #7dff7d;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #7dff7d;
+    background-color: #9d9d9d;
+  }
+}
 .home {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
@@ -5,12 +64,19 @@
 	width:70%;
 	margin:auto;
 }
+.container h1{
+	padding:10px;
+}
+.container p{
+	padding:10px;
+}
 .home .jumbotron .container img{
 	height:200px;
 	width:300px;
 	float:right;
 	display:inline-block;
 	position:right;
+	margin:10px;
 }
 .home .col-md-4 {
 	text-align: center;
