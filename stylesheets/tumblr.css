@@ -1,5 +1,6 @@
 .blog{
 	width:70%;
+	margin:auto;
 }
 .tumblr_post{
 }
@@ -19,12 +20,12 @@
 .read_more_container{
 	font-size:1em;
 }
-ol{
+.tumblr_posts{
 	list-style-type: none;
 }
-.tumblr_photo{
+.tumblr_photo img{
 	margin:auto;
 }
-.tumblr_caption{
+.tumblr_caption p{
 	text-align: center;
 }
