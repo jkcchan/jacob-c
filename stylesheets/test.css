@@ -1,7 +1,9 @@
 body {
 	display:none;
 	padding-bottom:30px;
+	background-image:url("/src/paper_fibers.png");
 }
+<<<<<<< HEAD
 .navbar-default {
   background-color: #ffffff;
   border-color: #d6d6d6;
@@ -60,6 +62,10 @@ body {
     color: #000000;
     background-color: #d6d6d6;
   }
+=======
+html {
+	cursor:nw-resize;
+>>>>>>> testing
 }
 .home {
 	font-family: 'Roboto Slab', serif;
@@ -67,15 +73,23 @@ body {
 	width:70%;
 	margin:auto;
 }
-.home .jumbotron .container img{
+.container {
+	background-image:url("/src/beige_paper.png");
+}
+.container img{
 	height:200px;
 	width:300px;
 	float:right;
 	display:inline-block;
 	position:right;
 }
+<<<<<<< HEAD
 p{
 	font-family: 'Lato', sans-serif;
+=======
+.container p{
+	font-weight:400;
+>>>>>>> testing
 }
 .home .col-md-4 {
 	text-align: center;
@@ -140,128 +154,11 @@ p{
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
 	width:70%;
+	margin:auto;
 }
 
 body { padding-top: 70px; }
 
-/*h2 {
-	text-decoration: underline;
-	font-weight:400;
-	font-size:25px;
-}*/
-.exp {
-
-	padding-left:15px;
-	border:dotted black 1px;
-	list-style-type:none;
-	width:30%;
-}
-.edu {
-	list-style-type: none;
-}
-.edu ul li:nth-child(1){
-	margin-left:20px;
-}
-.header {
-	border: solid black 2px;
-	text-align:center;
-	height:120px;
-	width:70%;
-	margin:auto;
-	padding-bottom:20px;
-	display: none;
-}
-.header h1 {
-	font-family: 'Muli', sans-serif;
-	font-style: italic;
-	font-size:45px;
-
-}
-.bar {
-	width: 75%;
-	top:-25px;
-	margin-left:auto;
-	margin-right:auto;
-}
-.bar li {
-	display: inline;
-	text-align:center;
-	font-style:italic;
-	padding-left:20px;
-	padding-right:20px;
-}
-.summary {
-	padding:10px;
-		display: none;
-
-}
-.experience {
-	padding:10px;
-		display: none;
-}
-.experience p{
-	height:5px;
-}
-.relevantAssignments {
-	padding:10px;
-		display: none;
-}
-.education {
-	padding:10px;
-		display: none;
-}
-/*.title {
-	height:5px;
-}
-.degree {
-	height:10px;
-	padding-left:30px
-}*/
-
-.date {
-	font-size:15px;
-	font-style:italic;
-
-	float:right;
-
-}
-table tr td:nth-child(2){
-	vertical-align: top;
-}
-table tr td:nth-child(1){
-	vertical-align: bottom;
-}
-
-.awardsandinterests{
-}
-.footer1 {
-	border:solid black 2px;
-	width:50%;
-	text-align: center;
-	margin:auto;
-}
-.footer1 ul {
-	list-style-type: none;
-	margin:0;
-	padding:0;
-}
-.footer1 ul li {
-	display: inline;
-}
-.footer1 ul li a {
-	text-decoration: none;
-}
-
-@-webkit-keyframes hello {
-	0% {color:black; top:0px;}
-	50% {color:red; top:-10px;}
-	100% {color:black;top:0px;}
-}
-#heading2:hover{
-	font-weight:400;
-	color:#ff0000;
-	-webkit-animation: hello 2s linear 0s infinite alternate;
-}
 
 html {
   position: relative;
@@ -310,9 +207,12 @@ button a {
 	color:black;
 	text-decoration: none;
 }
+<<<<<<< HEAD
 
 .contact {
 	margin:auto;
 }
 .home { 
 	padding-bottom:30px;}
+=======
+>>>>>>> testing
