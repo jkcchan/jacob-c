@@ -10,7 +10,7 @@ body {
 	width:70%;
 	margin:auto;
 }
-.container {
+.jumbotron {
 	background-image:url("/src/beige_paper.png");
 }
 .home .jumbotron .container img{
@@ -124,7 +124,8 @@ body {
 }
 .proj {
 	padding:10px;
-	border:1px solid black;
+	border:1px solid;
+	background-image:url("beige_paper.png");
 	border-radius: 4px;
 	background-color: #f5f5f5;
 	margin: 5px auto 5px auto;
