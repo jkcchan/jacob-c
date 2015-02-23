@@ -3,6 +3,9 @@ body {
 	padding-bottom:30px;
 	background-image:url("/src/paper_fibers.png");
 }
+html {
+	cursor:nw-resize;
+}
 .home {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
