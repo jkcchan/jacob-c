@@ -93,6 +93,10 @@ p{
 	width:70%;
 	margin:auto;
 }
+.blog {
+	font-family: 'Roboto Slab', serif;
+	font-weight:400;
+}
 
 body { padding-top: 70px; }
 
