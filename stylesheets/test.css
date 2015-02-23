@@ -74,7 +74,9 @@ p{
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
 }
-
+.cat:hover {
+	cursor:url("/src/cat.ico"), default;
+}
 .projects {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
