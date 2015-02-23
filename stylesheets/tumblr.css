@@ -1,0 +1,18 @@
+.tumblr_post{
+	background-image:url("/src/beige_paper.png");
+}
+.tumblr_title {
+	font-style: underline;
+	font-size:2em;
+	text-align: center;
+}
+.tumblr_body{
+	font-size:1em;
+}
+.tumblr_body img {
+	width:70%;
+	margin:auto;
+}
+.read_more_container{
+	font-size:1em;
+}
