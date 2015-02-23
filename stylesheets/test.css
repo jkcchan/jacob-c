@@ -13,7 +13,7 @@ body {
 .container {
 	background-image:url("/src/beige_paper.png");
 }
-.container img{
+.home .jumbotron .container img{
 	height:200px;
 	width:300px;
 	float:right;
