@@ -12,7 +12,7 @@
 	font-family:"Roboto Slab", serif;
 	margin:0.5em;
 }
-.tumblr_body{
+.tumblr_body, .tumblr_body li{
 	font-size:1em;
 }
 .tumblr_body img {
