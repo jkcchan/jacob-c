@@ -11,10 +11,8 @@ body {
 	display: inline-block;
 	list-style-type: none;
 	margin: auto;
-}
-.logo img{
-	width:10%;
-	height:10%;
+	width:20%;
+	height:20%;
 }
 .home {
 	font-family: 'Roboto Slab', serif;
