@@ -7,6 +7,15 @@ body {
 	display: inline-block;
 	margin:0.1em;
 }
+.logos .logo{
+	display: inline-block;
+	list-style-type: none;
+	margin: auto;
+}
+.logo img{
+	width:10%;
+	height:10%;
+}
 .home {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
