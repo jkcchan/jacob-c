@@ -7,6 +7,11 @@ body {
 	display: inline-block;
 	margin:0.1em;
 }
+.logos li{
+	list-style-type: none;
+	display: inline-block;
+	margin:0.1em;
+}
 .logos .logo{
 	display: inline-block;
 	list-style-type: none;
