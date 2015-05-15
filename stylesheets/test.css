@@ -2,7 +2,11 @@ body {
 	display:none;
 	padding-bottom:30px;
 }
-
+.logos{
+	list-style-type: none;
+	display: inline-block;
+	margin:0.1em;
+}
 .home {
 	font-family: 'Roboto Slab', serif;
 	font-weight:400;
