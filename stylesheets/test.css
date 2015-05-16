@@ -4,13 +4,12 @@ body {
 }
 .logos{
 	list-style-type: none;
-	display: inline-block;
 	margin-left:10%;
 }
 .logos li{
 	list-style-type: none;
 	display: inline;
-	margin:1em;
+	margin:0.5em;
 
 }
 .logos .logo{
