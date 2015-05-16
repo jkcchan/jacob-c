@@ -5,12 +5,13 @@ body {
 .logos{
 	list-style-type: none;
 	display: inline-block;
-	margin:0.1em;
+	margin-left:10%;
 }
 .logos li{
 	list-style-type: none;
 	display: inline;
-	margin:auto;
+	margin:1em;
+
 }
 .logos .logo{
 	display: inline-block;
