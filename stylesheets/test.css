@@ -9,8 +9,8 @@ body {
 }
 .logos li{
 	list-style-type: none;
-	display: inline-block;
-	margin:0.1em;
+	display: inline;
+	margin:auto;
 }
 .logos .logo{
 	display: inline-block;
