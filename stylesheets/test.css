@@ -29,8 +29,7 @@ body {
 	padding-left: 1em;
 }
 .home .jumbotron .container img{
-	height:200px;
-	width:300px;
+	width:25vw;
 	float:right;
 	display:inline-block;
 	position:right;
